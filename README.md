@@ -1,5 +1,5 @@
 # todo-aws
-> A Next.js to do list web app with FastAPI, AWS SDK, DynamoDB, Lambda Function
+> A Next.js to do list web app with FastAPI, AWS CDK, DynamoDB, Lambda Function
 
 # Screenshot
 ![image](https://user-images.githubusercontent.com/58461444/204088993-14895e04-f285-464c-a928-a477d5f71868.png)
